@@ -34,4 +34,3 @@ Em cada pacote há uma implementação correta (`correct`) e incorreta (`wrong`)
 - **Dependency Inversion**: Desacoplamento através de interfaces DAO
 
 Cada exemplo inclui casos de uso práticos que demonstram tanto a aplicação correta quanto as violações comuns dos princípios SOLID.
----
